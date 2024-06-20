@@ -1,0 +1,1 @@
+The program calculates the shortest route between a specified hospital and an accident spot using Dijkstra's algorithm. This ensures that the ambulance can reach the accident spot in the minimum possible time.
